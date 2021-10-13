@@ -29,6 +29,7 @@ HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-ali
 ## Media
 
 ### Title
+album_61E25333_77ED_FE9C_41AF_6AD7860DDC71.label = Photo Album
 panorama_7B3DA4C4_77AD_9B84_41C8_61CAB0CCB5CF.label = Punto 1
 panorama_7CD7D39D_77AD_9D84_41C3_8591D7C245C0.label = Punto 2
 
